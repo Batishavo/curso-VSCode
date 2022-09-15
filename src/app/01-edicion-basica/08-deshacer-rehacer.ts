@@ -13,7 +13,9 @@
 
 
 
-
+function holaMundo(){
+    return 'saludos a todos';
+}
 
 // Demo
 // function holaMundo() {
