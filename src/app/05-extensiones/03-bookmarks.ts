@@ -11,6 +11,7 @@ class Temporal {
 
 
 class OtraClase {
+    
     constructor(parameters) {
         
     }
